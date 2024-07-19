@@ -1,5 +1,5 @@
 // Webhook URL
-const webhookUrl = 'https://discordapp.com/api/webhooks/1260033305168842783/1kDj09DozGl6YN986QabG10R6JW8aNvlCTSkyBkaIHiKbYHHSyMD_fummVuXDS9DQBtM';
+const webhookUrl = '%WEBHOOK%';
 
 // 送信するデータ
 const data = {
